@@ -1,0 +1,9 @@
+{
+  "name": "jquery-dotimeout",
+  "version": "1.0.0",
+  "description": "Forked from https://github.com/cowboy/jquery-dotimeout",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tableau-mkt/jquery-dotimeout.git"
+  }
+}
